@@ -8,12 +8,12 @@ import asyncio
 # 🤖 BOT CONFIG
 # ==========================================
 
-API_ID = 12345678
-API_HASH = "YOUR_API_HASH"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = 39185757
+API_HASH = "10582578860a17487c7454b111df66f6"
+BOT_TOKEN = "8865964956:AAHMbZygLAD6M29S3QohAZ-BfDNeA59yUdg"
 
 # আপনার Telegram User ID
-OWNER_ID = 123456789
+OWNER_ID = 8514407577
 
 GROUP_FILE = "groups.json"
 
